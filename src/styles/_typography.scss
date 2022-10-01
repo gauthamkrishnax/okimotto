@@ -1,8 +1,13 @@
 html, body {
     font-family: 'Erode', serif;
+    font-size: 1.05rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Satoshi', sans-serif;
 }
 
+
+.nowrap {
+    white-space: nowrap;
+}

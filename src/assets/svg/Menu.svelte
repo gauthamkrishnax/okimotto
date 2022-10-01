@@ -5,5 +5,5 @@
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
 >
-    <path d="M0 1H34M0 13H34" stroke="black" stroke-width="2" />
+    <path d="M0 1H34M0 13H34" stroke="white" stroke-width="2" />
 </svg>
