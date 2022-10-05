@@ -42,13 +42,6 @@
         align-items: flex-end;
         background-color: #ffffff;
         opacity: 1;
-        background-image: linear-gradient(#e7e7e7 3.2px, transparent 3.2px),
-            linear-gradient(90deg, #e7e7e7 3.2px, transparent 3.2px),
-            linear-gradient(#e7e7e7 1.6px, transparent 1.6px),
-            linear-gradient(90deg, #e7e7e7 1.6px, #ffffff 1.6px);
-        background-size: 80px 80px, 80px 80px, 16px 16px, 16px 16px;
-        background-position: -3.2px -3.2px, -3.2px -3.2px, -1.6px -1.6px,
-            -1.6px -1.6px;
         .div1 {
             margin-left: 30%;
             margin-right: 10em;

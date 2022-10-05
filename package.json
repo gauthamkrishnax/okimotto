@@ -7,12 +7,13 @@
         "dev": "astro dev --host",
         "start": "astro dev",
         "build": "astro build",
-        "preview": "astro preview",
+        "preview": "astro preview --host",
         "astro": "astro"
     },
     "dependencies": {
         "@astrojs/svelte": "^1.0.0",
         "astro": "^1.3.1",
+        "gsap": "^3.11.3",
         "svelte": "^3.50.1"
     },
     "devDependencies": {

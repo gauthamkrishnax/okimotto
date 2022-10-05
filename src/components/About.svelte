@@ -3,7 +3,7 @@
 </script>
 
 <section>
-    <div class="about1">
+    <div class="about1" id="about1">
         <p>
             Widely considered one of the world’s most innovative architects, Oki
             Motto is known for his continued exploration of post-modernism and

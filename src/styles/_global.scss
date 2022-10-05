@@ -7,4 +7,17 @@ html, body {
    background-color: #fff;
 }
 
- 
+body {
+    overflow: hidden;
+    min-height: 100vh;
+@media screen and (max-width: 1024px) {
+        overflow: auto;
+    }
+}
+
+#GScroll {
+    padding-bottom: 200px;
+    @media screen and (max-width: 1024px) {
+            padding-bottom: 0;
+        }
+}

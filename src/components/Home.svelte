@@ -3,11 +3,19 @@
 </script>
 
 <section>
-    <div class="hero-titles">
-        <div class="secondary-title"><span>ESTABLISHED IN 1984</span></div>
+    <div class="hero-titles" id="hero-titles">
+        <div class="secondary-title">
+            <span>ESTABLISHED IN 1984</span>
+        </div>
         <div class="primary-title">
-            <div><h1>WE DESIGN FUTURE.</h1></div>
-            <div><h1>WE NEED <strong>OKI MOTTO.</strong></h1></div>
+            <div>
+                <h1>WE DESIGN FUTURE.</h1>
+            </div>
+            <div>
+                <h1>
+                    WE NEED <strong>OKI MOTTO.</strong>
+                </h1>
+            </div>
         </div>
         <div />
     </div>
